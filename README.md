@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repositorio-Adri
+# Repositorio do desafio de Projeto sobre Git/Github
 Desafio de projeto sobre  Git/Github
